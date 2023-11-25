@@ -28,3 +28,21 @@ GitHub: react-native-pie
 # react-native-svg:
 While not a charting library itself, react-native-svg is a powerful library for rendering SVG (Scalable Vector Graphics) in React Native. Many charting libraries use react-native-svg as a base for rendering charts.
 GitHub: react-native-svg
+
+# react-native-svg-radial-gauge
+npm install react-native-svg-radial-gauge
+
+# react-native-circular-progress 
+npm install react-native-circular-progress --save
+
+# react-native-svg-gauge
+npm install react-native-svg-gauge
+
+# react-native-speedometer:
+A simple and customizable speedometer-style gauge.
+GitHub: react-native-speedometer
+
+# react-native-gauge-chart:
+A lightweight and customizable gauge chart library for React Native.
+GitHub: react-native-gauge-chart
+
