@@ -32,10 +32,10 @@ GitHub: react-native-svg
 # react-native-svg-radial-gauge
 npm install react-native-svg-radial-gauge
 
-# react-native-circular-progress 
+# react-native-circular-progress - OK
 npm install react-native-circular-progress --save
 
-# react-native-svg-gauge
+# react-native-svg-gauge - OK
 npm install react-native-svg-gauge
 
 # react-native-speedometer:
